@@ -19,4 +19,6 @@ When I'm bored, I write code. That's enough to know about
 
 # ‍💻 My Projects:
 
-![www.google.com](https://user-images.githubusercontent.com/92625816/223582987-a08243f3-ea2e-401c-adc0-8c58731f1d61.jpg)
+ [![Viewer](https://user-images.githubusercontent.com/92625816/223582987-a08243f3-ea2e-401c-adc0-8c58731f1d61.jpg)](https://github.com/Kichi779/Twitch-Viewer-Bot)
+ [![chatbot](https://user-images.githubusercontent.com/92625816/219774639-6c550f44-ed0c-4dcd-ba09-f87836dcbaa3.png)](https://github.com/Kichi779/Twitch-Chat-Bot)
+ [![chatbot](https://user-images.githubusercontent.com/92625816/215876796-364d4cd4-2812-4350-b473-cab1b1239401.jpg)](https://github.com/Kichi779/Unity-Easteregg-Asset)
