@@ -15,10 +15,9 @@ When I'm bored, I write code. That's enough to know about
 ---
 [![](https://visitcount.itsvg.in/api?id=kichi779&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+# 🛒 Shop:
+ [![Shop](https://user-images.githubusercontent.com/92625816/230799946-2af1a68f-ebcf-4379-9d00-0921e9c799bb.png)](https://github.com/Kichi779/Kichi779-SMM-Shop)
 # ‍💻 My Projects:
-
  [![Viewer](https://user-images.githubusercontent.com/92625816/223582987-a08243f3-ea2e-401c-adc0-8c58731f1d61.jpg)](https://github.com/Kichi779/Twitch-Viewer-Bot)
  [![Viewer3](https://user-images.githubusercontent.com/92625816/230797452-7a2962d1-88ad-40e1-9e06-d50bb31cdc14.jpg)](https://github.com/Kichi779/Twitch-Vod-Clip-Viewer-Bot)
  [![Viewer2](https://user-images.githubusercontent.com/92625816/229256846-81e78ca5-5f5a-4918-8f62-6bf0de246fa4.jpg)](https://github.com/Kichi779/Youtube-Viewer-Bot)
