@@ -23,6 +23,6 @@ When I'm bored, I write code. That's enough to know about
  [![Viewer2](https://user-images.githubusercontent.com/92625816/229256846-81e78ca5-5f5a-4918-8f62-6bf0de246fa4.jpg)](https://github.com/Kichi779/Youtube-Viewer-Bot)
  [![chatbot](https://user-images.githubusercontent.com/92625816/219774639-6c550f44-ed0c-4dcd-ba09-f87836dcbaa3.png)](https://github.com/Kichi779/Twitch-Chat-Bot)
  [![chatbot](https://user-images.githubusercontent.com/92625816/215876796-364d4cd4-2812-4350-b473-cab1b1239401.jpg)](https://github.com/Kichi779/Unity-Easteregg-Asset)
- [![bincreator](https://user-images.githubusercontent.com/92625816/234621755-66e7a504-bbbd-4b0c-8952-e39af364e887.jpg)]
+ ![bincreator](https://user-images.githubusercontent.com/92625816/234621755-66e7a504-bbbd-4b0c-8952-e39af364e887.jpg)
 
 
