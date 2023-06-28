@@ -22,6 +22,6 @@ When I'm bored, I write code. That's enough to know about
  [![Viewer3](https://user-images.githubusercontent.com/92625816/230797452-7a2962d1-88ad-40e1-9e06-d50bb31cdc14.jpg)](https://github.com/Kichi779/Twitch-Vod-Clip-Viewer-Bot)
  [![Viewer2](https://user-images.githubusercontent.com/92625816/229256846-81e78ca5-5f5a-4918-8f62-6bf0de246fa4.jpg)](https://github.com/Kichi779/Youtube-Viewer-Bot)
  [![chatbot](https://user-images.githubusercontent.com/92625816/219774639-6c550f44-ed0c-4dcd-ba09-f87836dcbaa3.png)](https://github.com/Kichi779/Twitch-Chat-Bot)
- [![spo](https://github.com/Kichi779/Spotify-Streaming-Bot/assets/92625816/3899d0b7-37e9-4fce-a3ab-5d757182157f)](https://github.com/Kichi779/Spotify-Streaming-Bot/)
+ [![spo](https://github.com/Kichi779/Spotify-Streaming-Bot/assets/92625816/3899d0b7-37e9-4fce-a3ab-5d757182157f)](https://github.com/Kichi779/Spotify-Streaming-Bot)
  [![chatbot](https://user-images.githubusercontent.com/92625816/215876796-364d4cd4-2812-4350-b473-cab1b1239401.jpg)](https://github.com/Kichi779/Unity-Easteregg-Asset)
  [![binchec](https://user-images.githubusercontent.com/92625816/234622468-e962fab1-7ea5-4036-8a1e-b3a140d59d56.jpg)](https://github.com/Kichi779/Bin-Generator-And-Checker)
