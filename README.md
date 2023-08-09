@@ -23,4 +23,4 @@ When I'm bored, I write code. That's enough to know about
  [![chatbot](https://user-images.githubusercontent.com/92625816/219774639-6c550f44-ed0c-4dcd-ba09-f87836dcbaa3.png)](https://github.com/Kichi779/Twitch-Chat-Bot)
  [![spotify](https://user-images.githubusercontent.com/92625816/249576372-3899d0b7-37e9-4fce-a3ab-5d757182157f.png)](https://github.com/Kichi779/Spotify-Streaming-Bot)
  [![chatbot](https://user-images.githubusercontent.com/92625816/215876796-364d4cd4-2812-4350-b473-cab1b1239401.jpg)](https://github.com/Kichi779/Unity-Easteregg-Asset)
- ![kichimultist](https://github.com/Kichi779/kichi779/assets/92625816/7c5d2f39-ab47-42d6-82b5-6e6fe6daa61c)
+ [![kichimultist](https://github.com/Kichi779/kichi779/assets/92625816/7c5d2f39-ab47-42d6-82b5-6e6fe6daa61c)](https://github.com/Kichi779/Twitch-Multi-Stream)
