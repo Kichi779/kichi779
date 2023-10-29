@@ -16,6 +16,8 @@ When I'm bored, I write code. That's enough to know about
  [![Viewer](https://user-images.githubusercontent.com/92625816/223582987-a08243f3-ea2e-401c-adc0-8c58731f1d61.jpg)](https://github.com/Kichi779/Twitch-Viewer-Bot)
  [![Viewer3](https://user-images.githubusercontent.com/92625816/230797452-7a2962d1-88ad-40e1-9e06-d50bb31cdc14.jpg)](https://github.com/Kichi779/Twitch-Vod-Clip-Viewer-Bot)
  [![chatbot](https://user-images.githubusercontent.com/92625816/219774639-6c550f44-ed0c-4dcd-ba09-f87836dcbaa3.png)](https://github.com/Kichi779/Twitch-Chat-Bot)
- [![spotify](https://user-images.githubusercontent.com/92625816/249576372-3899d0b7-37e9-4fce-a3ab-5d757182157f.png)](https://github.com/Kichi779/Spotify-Streaming-Bot)
- [![chatbot](https://user-images.githubusercontent.com/92625816/215876796-364d4cd4-2812-4350-b473-cab1b1239401.jpg)](https://github.com/Kichi779/Unity-Easteregg-Asset)
  [![mult](https://user-images.githubusercontent.com/92625816/259266312-7c5d2f39-ab47-42d6-82b5-6e6fe6daa61c.png)](https://github.com/Kichi779/Twitch-Multi-Stream)
+ [![spotify](https://user-images.githubusercontent.com/92625816/249576372-3899d0b7-37e9-4fce-a3ab-5d757182157f.png)](https://github.com/Kichi779/Spotify-Streaming-Bot)
+ [![soundcloud](https://user-images.githubusercontent.com/92625816/278887829-39ff55c8-729e-40a0-b680-59a573b8136e.png)](https://github.com/Kichi779/SoundCloud-Streaming-Bot)
+ [![chatbot](https://user-images.githubusercontent.com/92625816/215876796-364d4cd4-2812-4350-b473-cab1b1239401.jpg)](https://github.com/Kichi779/Unity-Easteregg-Asset)
+
